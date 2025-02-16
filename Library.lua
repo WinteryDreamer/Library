@@ -14,7 +14,7 @@ local coregui = game:GetService("CoreGui")
 local httpservice = game:GetService("HttpService")
 
 local player = players.LocalPlayer
---local mouse = player:GetMouse()
+local mouse = player:GetMouse()
 local camera = game.Workspace.CurrentCamera
 
 library.theme = {
